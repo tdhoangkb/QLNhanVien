@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QLNhanVien</string>
+    <string name="text_txtTitle_activity_login">LOGIN</string>
+</resources>
